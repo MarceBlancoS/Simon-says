@@ -87,7 +87,9 @@ body {
 
 #round{
     color:white;
-    src: url('./imagenes/trofeo.png');
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
     
 }
 
