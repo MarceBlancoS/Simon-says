@@ -85,5 +85,15 @@ body {
     animation: spin 1s ease-in-out;
 }
 
+#round{
+    color:white;
+    src: url('./imagenes/trofeo.png');
+    
+}
+
+
+
 @keyframes spin { 
     100% { transform:rotate(180deg) } }
+
+   
